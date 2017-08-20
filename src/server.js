@@ -1,4 +1,4 @@
-import { test, test2 } from 'Dir/obligitory-import';
+import { test, test2 } from './dir/obligitory-import';
 
 console.log(test);
 
